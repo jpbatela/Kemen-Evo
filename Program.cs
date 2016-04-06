@@ -7,8 +7,6 @@ using System.Windows.Forms;
 
 namespace kemen
 {
-
-
     static class Program
     {
         /// <summary>
