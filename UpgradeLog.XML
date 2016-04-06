@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="kemen">
+</Property><Property Name="Archivo de la solución" Value="D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\kemen.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\kemen.suo">
+</Property><Property Name="Date" Value="jueves, 12 de marzo de 2015">
+</Property><Property Name="Time" Value="9:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="kemen.sln" Description="La copia D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="kemen.suo" Description="La copia D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.csproj">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Datos.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Datos.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Datos.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Datos.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="GruaTrenData.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\GruaTrenData.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="kemen" Source="App.config" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="kemen" Source="obj\LogoNOATUM.jpg" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\obj\LogoNOATUM.jpg">
+</Event><Event ErrorLevel="0" Project="kemen" Source="obj\libra_oro_KEMEN.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\obj\libra_oro_KEMEN.png">
+</Event><Event ErrorLevel="0" Project="kemen" Source="obj\Logo Batela.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\obj\Logo Batela.png">
+</Event><Event ErrorLevel="0" Project="kemen" Source="obj\bascula.png" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\obj\bascula.png">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Datos.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Datos.resx">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\kemen.resx">
+</Event><Event ErrorLevel="0" Project="kemen" Source="Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="kemen" Source="kemen.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KemenSetUp.vdproj" Source="..\KemenSetUp\KemenSetUp.vdproj" Description="La copia de seguridad del archivo de proyecto se realizó correctamente: D:\ZZZZ\MyPrj\Bascula\Software\Source\kemen\Backup\KemenSetUp.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="kemen.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="kemen.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="kemen" Source="kemen.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
