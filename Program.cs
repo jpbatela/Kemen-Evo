@@ -5,9 +5,10 @@ using System.Configuration;
 using System.Linq;
 using System.Windows.Forms;
 
-
 namespace kemen
 {
+
+
     static class Program
     {
         /// <summary>
